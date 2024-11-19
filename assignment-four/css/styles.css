@@ -1,6 +1,6 @@
 .green-container {
     background-color: green;
-    width: 500px;
+    width: 600px;
     height: 450px;
     border: 4px solid #ff0000;
     border-radius: 16px;
@@ -39,7 +39,7 @@
 
 .yellow-container {
     background-color: yellow;
-    width: 600px;
+    width: 700px;
     height: 700px;
     padding-top: 20px;
     border: 2px solid #ff0000;
