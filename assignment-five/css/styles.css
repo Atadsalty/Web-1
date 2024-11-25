@@ -1,0 +1,60 @@
+.yellow-box {
+    background-color: yellow;
+    width: 600px;
+    height: 1800px;
+    border: solid red
+}
+
+.example-one {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    background-image: url(../assets/picard.jpeg);
+    background-size: 450px 300px;
+}
+
+.example-two {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    background-image: url(../assets/picard.jpeg);
+    background-size: 200px;
+        
+}
+
+.example-three {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+    background-image: url(../assets/picard.jpeg);
+    background-size: 200px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: skyblue
+}
+
+.example-four {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.img1 {
+    object-fit: contain;
+    height: 300px;
+    width: 450px;
+}
+
+.example-five {
+    width: 450px;
+    height: 300px;
+    margin: 50px auto; 
+    background-color:skyblue;
+}
+
+.img2 {
+    object-position: 0 50px;
+    height: 300px;
+    width: 450px;
+
+}

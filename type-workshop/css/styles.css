@@ -1,0 +1,43 @@
+body {
+    background-color: #a9ffff;
+}
+
+.type1 {
+    font-size: 20pt;
+    font-family: "roboto";
+}
+
+.type2 {
+    letter-spacing: 5pt;
+    font-family: "Rubik Wet Paint", system-ui;
+}
+
+.type3 {
+    line-height: 20pt;
+    font-family: "Playwrite GB S", cursive;
+}
+
+.type4 {
+    text-align: center;
+    font-family: "Danfo", serif;
+}
+
+.type5 {
+    font-weight: 900;
+    font-family: "Montserrat", sans-serif;
+}
+
+.type6 {
+    font-family: "Kablammo", system-ui;
+}
+
+.type7 {
+    font-family: "Tiny5", sans-serif;
+}
+
+.type8 {
+    font-family: "Playfair Display", serif;
+}
+.type9 {
+    font-family: "Bebas Neue", sans-serif;
+}
