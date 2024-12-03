@@ -1,0 +1,88 @@
+.yellow-container {
+    background-color: yellow;
+    width: 600px;
+    height: 900px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.green-container {
+    background-color: green;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+}
+
+.teal-box {
+    background-color: teal;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+.brown-box {
+    background-color: saddlebrown;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 20px;
+    text-align: center;
+}
+
+.blue-container {
+    background-color: blue;
+    width: 500px;
+    height: 360px;
+    margin: 20px auto;
+}
+
+.tan-box {
+    background-color: tan;
+    width: 150px;
+    height: 150px;
+    float:left;
+    margin: 20px;
+    text-align: center;
+}
+
+.black-box {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin: 20px;
+    text-align: center;
+    color: white
+}
+
+.sandybrown-box {
+    background-color: saddlebrown;
+    text-align: center;
+    clear:left;
+    height: 150px;
+    margin: 20px;
+}
+
+.rosybrown-container {
+    background-color: rosybrown;
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    color: white;
+}
+
+.purple-box {
+    background-color: purple;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    float: left;
+    margin: 20px
+}
+
+.butt{
+   padding:20px; 
+}
