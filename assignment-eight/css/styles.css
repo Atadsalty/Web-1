@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.navlink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.banner {
+    background-image: url(../images/banner-img.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-grow: 1;
+    height: 250px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bannertext {
+    color: white;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.button1 {
+    color: white;
+    background-color: #2d2d42;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcomecontainer {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcomehr1 {
+    width: 150px;
+}
+
+.welcometext {
+    color: #2d2d42;
+    text-align: center;
+    font-size: 25pt;
+    font-weight: 1;
+    margin-bottom: 0;
+}
+
+.p1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.welcomebuttoncontainer {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.button2 {
+    color: white;
+    background-color: #2d2d42;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.welcomehr2 {
+    width: 100%;
+    margin: 20px;
+}
+
+.desc {
+    justify-content: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.sectionrightcontainer {
+    display: flex;
+    flex-grow: 0;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.image1 {
+    width: 520px;
+    margin-right: 20px;
+}
+
+.h1 {
+    text-align: right;
+    font-size: 40px;
+    margin: auto;
+    color: #2d2d42;
+    font-weight: 100;
+}
+
+.hr1 {
+    width: 80px;
+    float: right;
+}
+
+.p2 {
+    text-align: right;
+    float: right;
+}
+
+.sectionleftcontainer {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.image2 {
+    width: 520px;
+    margin-left: 20px;
+}
+
+.h2 {
+    text-align: left;
+    font-size: 40px;
+    margin: auto;
+    color: #2d2d42;
+    font-weight: 100;
+}
+
+.hr2 {
+    width: 80px;
+    float: left;
+}
+
+.p3 {
+    text-align: left;
+    float: left;
+}
+
+footer {
+    background-color: #f4f4f4;
+}
+
+.footercontainer0 {
+    flex-grow: 1;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.footercontainer1 {
+    display: flex;
+    flex-grow: 1;
+    justify-content: left;
+    flex-direction: column;
+    float: left;
+}
+
+.footercontainer2 {
+    display: flex;
+    flex-grow: 1;
+    justify-content: right;
+    flex-direction: column;
+    float: right;
+}
+
+.pay {
+    width: 200px;
+}
+
+.imagefoot {
+    width: 1;
+}
+
+.f1 {
+    font-size: 10px;
+}
+
+.f2 {
+    text-align: right;
+    font-size: 10px;
+}
+
+.footerbottom {
+    clear: left;
+    text-align: center;
+    font-size: 10px;
+}
